@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'mathlete-skinny';
+  src: url('/fonts/Mathlete-Skinny-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'mathlete-skinny-italic';
+  src: url('/fonts/Mathlete-SkinnySlant-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'mathlete-bold';
+  src: url('/fonts/Mathlete-Bulky-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'mathlete-bold-italic';
+  src: url('/fonts/Mathlete-BulkySlant-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+.p2 {
+  font-family: 'mathlete-skinny', sans-serif;
+
+  color: black;
+}
+
+.p3 {
+  font-family: 'mathlete-skinny-italic', sans-serif;
+
+  color: black;
+}
+
+.p4 {
+  font-family: 'mathlete-bold', sans-serif;
+
+  color: black;
+}
